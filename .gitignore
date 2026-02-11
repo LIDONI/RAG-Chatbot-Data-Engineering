@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Test caches
+.pytest_cache/
+
+# Environnements virtuels
+venv/
+.env
+
+# Data générée
+data/events.csv
+data/faiss_index/*.faiss
+data/faiss_index/*.pkl
+
+# OS
+.DS_Store
+Thumbs.db
