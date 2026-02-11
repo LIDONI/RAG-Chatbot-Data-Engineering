@@ -34,21 +34,33 @@ Intégrer des tests de validation des données
 
 puls-events-rag/
 │
+
 ├── README.md
+
 ├── requirements.txt
+
 ├── .env.example
 │
+
 ├── data/
+
 │   ├── events.csv
+
 │   └── faiss_index/
 │
 ├── src/
+
 │   ├── ingest.py
+
 │   ├── vectorize.py
+
 │   └── chat.py
 │
+
 ├── tests/
+
 │   └── test_events.py
+
 │
 └── run.py
 
