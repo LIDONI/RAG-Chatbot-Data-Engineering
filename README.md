@@ -6,25 +6,25 @@ Puls-Events est un projet de chatbot intelligent basé sur une architecture RAG 
 
 **Le système :**
 
-ingère des données publiques via API
+- ingère des données publiques via API
 
-les transforme et nettoie
+- les transforme et nettoie
 
-les indexe via FAISS
+- les indexe via FAISS
 
-permet une recherche sémantique
+- permet une recherche sémantique
 
-génère des réponses contextualisées avec un LLM (Mistral)
+- génère des réponses contextualisées avec un LLM (Mistral)
 
 **Objectifs du projet**
 
-Construire un pipeline data complet (ingestion → vectorisation → exploitation)
+- Construire un pipeline data complet (ingestion → vectorisation → exploitation)
 
-Mettre en place une architecture RAG moderne
+- Mettre en place une architecture RAG moderne
 
-Appliquer des bonnes pratiques Data Engineering
+- Appliquer des bonnes pratiques Data Engineering
 
-Intégrer des tests de validation des données
+- Intégrer des tests de validation des données
 
 ---
 
@@ -49,6 +49,7 @@ puls-events-rag/
 │   └── faiss_index/
 │
 ├── src/
+
 
 │   ├── ingest.py
 
