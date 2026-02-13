@@ -47,6 +47,8 @@ puls-events-rag/
 │   ├── events.csv
 
 │   └── faiss_index/
+
+
 │
 ├── src/
 
