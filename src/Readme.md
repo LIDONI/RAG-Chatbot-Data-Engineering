@@ -53,7 +53,7 @@ puls-events-rag/
 └── run.py
 
 
-![Diagramme des flux](image%20(1).png)
+![Diagramme des flux](image.png)
 
 ---
 
