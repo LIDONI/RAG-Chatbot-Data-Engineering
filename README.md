@@ -48,10 +48,9 @@ puls-events-rag/
 
 │   └── faiss_index/
 
-
 │
-├── src/
 
+├── src/
 
 │   ├── ingest.py
 
